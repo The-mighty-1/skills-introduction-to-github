@@ -1,0 +1,16 @@
+print('calculator')
+x=float(('enter'))
+symbol=inter(('enter opration'))
+y=float(('enter'))
+s=x+y
+d=x-y
+m=x*y
+q=x/y
+if symbol=='+'
+ print('s')
+elif symbol=='-'
+ print('d')
+elif symbol=='*'
+ print('m')
+elif symbol=='/'
+ print('d')
